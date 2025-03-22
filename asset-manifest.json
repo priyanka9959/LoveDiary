@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LoveDiary/static/css/main.2fe0f7cb.css",
-    "main.js": "/LoveDiary/static/js/main.156b3fab.js",
+    "main.css": "/LoveDiary/static/css/main.339da52c.css",
+    "main.js": "/LoveDiary/static/js/main.9cac4bf7.js",
     "static/js/453.b85c7cca.chunk.js": "/LoveDiary/static/js/453.b85c7cca.chunk.js",
     "index.html": "/LoveDiary/index.html",
-    "main.2fe0f7cb.css.map": "/LoveDiary/static/css/main.2fe0f7cb.css.map",
-    "main.156b3fab.js.map": "/LoveDiary/static/js/main.156b3fab.js.map",
+    "main.339da52c.css.map": "/LoveDiary/static/css/main.339da52c.css.map",
+    "main.9cac4bf7.js.map": "/LoveDiary/static/js/main.9cac4bf7.js.map",
     "453.b85c7cca.chunk.js.map": "/LoveDiary/static/js/453.b85c7cca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fe0f7cb.css",
-    "static/js/main.156b3fab.js"
+    "static/css/main.339da52c.css",
+    "static/js/main.9cac4bf7.js"
   ]
 }
