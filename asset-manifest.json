@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LoveDiary/static/css/main.2fe0f7cb.css",
+    "main.js": "/LoveDiary/static/js/main.156b3fab.js",
+    "static/js/453.b85c7cca.chunk.js": "/LoveDiary/static/js/453.b85c7cca.chunk.js",
+    "index.html": "/LoveDiary/index.html",
+    "main.2fe0f7cb.css.map": "/LoveDiary/static/css/main.2fe0f7cb.css.map",
+    "main.156b3fab.js.map": "/LoveDiary/static/js/main.156b3fab.js.map",
+    "453.b85c7cca.chunk.js.map": "/LoveDiary/static/js/453.b85c7cca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fe0f7cb.css",
+    "static/js/main.156b3fab.js"
+  ]
+}
